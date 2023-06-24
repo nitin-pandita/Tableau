@@ -1,6 +1,10 @@
 # Tableau
 This Repository will contain the Tableau
 
+## Project ScreenShots
+
+![image](https://github.com/nitin-pandita/Tableau/assets/91310284/e1103ae8-b780-480e-ad3f-ff826a6c5a3b)
+
 
 ### Project Demo
 
